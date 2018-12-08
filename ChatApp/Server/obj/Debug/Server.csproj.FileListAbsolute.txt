@@ -1,0 +1,20 @@
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\bin\Debug\Server.exe.config
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\bin\Debug\Server.exe
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\bin\Debug\Server.pdb
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.exe
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.pdb
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Imesh Ranawaka\Documents\ChatApp\Server\obj\Debug\Server.Server.resources
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\bin\Debug\Server.exe.config
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\bin\Debug\Server.exe
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\bin\Debug\Server.pdb
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.Server.resources
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.exe
+C:\Users\Imesh Ranawaka\Documents\APIIT\Level 5 - Assignments\CNA\CNA NEW\ChatApp\Server\obj\Debug\Server.pdb
